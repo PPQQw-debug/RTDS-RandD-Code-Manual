@@ -1,0 +1,9 @@
+﻿# macOS/Windows
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# Generated
+*.tmp
